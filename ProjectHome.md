@@ -1,0 +1,1 @@
+track-it is a simple open source application for tracking bugs and is developed using Zend Framework with a Mysql backend. Notification is sent via email and SMS.
